@@ -2,9 +2,9 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-- 👋 Hi, I’m @Ekans111
+- 👋 Hi, I’m @BlueSky613
 - 👀 I’m interested in Web & Mobile Development
-- 🌱 Also I’m **Blockchain** master, Awesome!!!
+- 🌱 Also I’m **Blockchain** Enthusiast
 - 💞️ I’m looking to collaborate on you through github
 
 
