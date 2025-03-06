@@ -76,7 +76,7 @@ Markdown     1 hour          ▒░░░░░░░░░░░░░░░░
 
 <br>
 <h3>Where to find me</h3>
-<p><a href="https://github.com/BlueSky613" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-grey?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://t.me/Ecrypto_1" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram" /></a> <a href="https://discord.gg/cbAftPYP" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-grey?style=for-the-badge&logo=discord" /></a>
+<p><a href="https://github.com/BlueSky613" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-grey?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://t.me/blocker_solver" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram" /></a> <a href="https://discord.gg/cbAftPYP" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-grey?style=for-the-badge&logo=discord" /></a>
 </p>
 <!---
 Ekans111/Ekans111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
