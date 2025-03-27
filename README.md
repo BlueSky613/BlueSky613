@@ -29,18 +29,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   10 hours         █████████████████▒░░░░░░░   50 %
-JavaScript   3 hours          █████▓░░░░░░░░░░░░░░░░░░░   15 %
-Other        6 hours          █▓░░░░░░░░░░░░░░░░░░░░░░░   30 %
-Markdown     1 hour          ▒░░░░░░░░░░░░░░░░░░░░░░░░    5 %
-```
-
-<!--END_SECTION:waka-->
-
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
